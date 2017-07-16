@@ -1,7 +1,7 @@
 {
-  "name": "webhook-rundeck",
-  "version": "1.0.0",
-  "description": "Trigger rundeck jobs from AWS lambda APIs.",
+  "name": "webhook-serverless",
+  "version": "0.1.1",
+  "description": "Generic webhook like functionality for automation servers based on the serverless framework.",
   "main": "github.js",
   "dependencies": {
     "unirest": "^0.5.1",
@@ -11,6 +11,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Riadh Habbachi",
-  "license": "ISC"
+  "author": {
+    "name": "Riadh Habbachi",
+    "email": "habbachi.riadh@gmail.com"
+  },
+  "license": "Apache-2.0"
 }
