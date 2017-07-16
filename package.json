@@ -1,0 +1,16 @@
+{
+  "name": "webhook-rundeck",
+  "version": "1.0.0",
+  "description": "Trigger rundeck jobs from AWS lambda APIs.",
+  "main": "github.js",
+  "dependencies": {
+    "unirest": "^0.5.1",
+    "urijs": "^1.18.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Riadh Habbachi",
+  "license": "ISC"
+}

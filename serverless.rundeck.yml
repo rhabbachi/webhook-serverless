@@ -1,0 +1,5 @@
+---
+RUNDECK_AUTH_TOKEN: token-here
+RUNDECK_JOB_UUID_PING: uuid-here
+RUNDECK_HOSTNAME: https://your-rundeck-url.here
+RUNDECK_PORT: port
